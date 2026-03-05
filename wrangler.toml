@@ -1,0 +1,36 @@
+name = "blackroad-alfred"
+main = "workers/alfred-worker.js"
+compatibility_date = "2024-12-01"
+
+# Account settings (configure via secrets or environment)
+# account_id = "your-account-id"
+
+[vars]
+VERSION = "1.0.0"
+
+# KV namespace for task tracking
+# [[kv_namespaces]]
+# binding = "TASKS_KV"
+# id = "your-kv-namespace-id"
+
+# Queue for async task processing
+# [[queues.producers]]
+# queue = "alfred-tasks"
+# binding = "TASK_QUEUE"
+
+# [[queues.consumers]]
+# queue = "alfred-tasks"
+# max_batch_size = 10
+# max_retries = 3
+
+# Cron triggers for scheduled tasks
+[triggers]
+crons = ["*/30 * * * *"]
+
+# Environment-specific overrides
+[env.production]
+name = "blackroad-alfred"
+# routes = [{ pattern = "alfred.blackroad.io/*", zone_name = "blackroad.io" }]
+
+[env.staging]
+name = "blackroad-alfred-staging"
