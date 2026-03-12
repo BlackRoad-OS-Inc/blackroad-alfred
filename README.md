@@ -1,5 +1,11 @@
 # BlackRoad Alfred Workflow
 
+[![Alfred](https://img.shields.io/badge/Alfred-Workflow-5C1F87.svg)](https://alfredapp.com)
+[![macOS](https://img.shields.io/badge/macOS-automation-000000.svg)](https://apple.com)
+[![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25.svg)](https://gnu.org/software/bash/)
+
+
+
 Mac automation shortcuts for BlackRoad OS operations via [Alfred](https://www.alfredapp.com/).
 
 ## Commands
