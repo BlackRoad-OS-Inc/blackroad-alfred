@@ -1,37 +1,41 @@
-# BlackRoad Alfred Workflow
+<div align="center">
 
-[![Alfred](https://img.shields.io/badge/Alfred-Workflow-5C1F87.svg)](https://alfredapp.com)
-[![macOS](https://img.shields.io/badge/macOS-automation-000000.svg)](https://apple.com)
-[![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25.svg)](https://gnu.org/software/bash/)
+<img src="https://images.blackroad.io/pixel-art/road-logo.png" alt="BlackRoad OS" width="80" />
 
+# blackroad-alfred
 
+**BlackRoad Alfred Workflow — macOS automation shortcuts for fleet management, deployment, and service monitoring. Quick deploy, status checks, and SSH shortcuts.**
 
-Mac automation shortcuts for BlackRoad OS operations via [Alfred](https://www.alfredapp.com/).
+[![BlackRoad OS](https://img.shields.io/badge/BlackRoad_OS-Pave_Tomorrow-FF2255?style=for-the-badge&labelColor=000000)](https://blackroad.io)
+[![License](https://img.shields.io/badge/License-Proprietary-FF6B2B?style=for-the-badge&labelColor=000000)](./LICENSE)
+[![Edge AI](https://img.shields.io/badge/Edge_AI-52_TOPS-00D4FF?style=for-the-badge&labelColor=000000)](https://github.com/BlackRoad-OS-Inc)
 
-## Commands
+</div>
 
-| Keyword | Action |
-|---------|--------|
-| `deploy` | Quick deploy to Cloudflare/Railway |
-| `stats` | View analytics dashboard |
-| `blackroad` | Launch BlackRoad command palette |
+<div align="center">
+<sub>Part of the <a href="https://blackroad.io">BlackRoad OS</a> ecosystem — sovereign edge AI infrastructure</sub>
+</div>
 
-## Install
+---
 
-1. Clone this repo or download the workflow
-2. Import into Alfred (double-click `.alfredworkflow` or copy `workflow.sh`)
-3. Configure API key in workflow variables
+## Overview
 
-## Requirements
-
-- [Alfred](https://www.alfredapp.com/) with Powerpack
-- macOS
-
-## Related
-
-- [blackroad-raycast](https://github.com/blackboxprogramming/blackroad-raycast) — Raycast extension
-- [BlackRoad OS](https://github.com/blackboxprogramming/BlackRoad-Operating-System) — The platform
+BlackRoad Alfred Workflow — macOS automation shortcuts for fleet management, deployment, and service monitoring. Quick deploy, status checks, and SSH shortcuts.
 
 ## License
 
-Copyright 2026 BlackRoad OS, Inc. — Alexa Amundson.
+**Proprietary** — Copyright © 2024–2026 [BlackRoad OS, Inc.](https://blackroad.io) All rights reserved.
+
+Founder & CEO: **Alexa Louise Amundson** · Delaware C-Corp
+
+See [LICENSE](./LICENSE) for full terms.
+
+---
+
+<div align="center">
+
+**BlackRoad OS — Pave Tomorrow.**
+
+[blackroad.io](https://blackroad.io) · [GitHub](https://github.com/BlackRoad-OS-Inc) · [Brand](https://brand.blackroad.io)
+
+</div>
