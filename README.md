@@ -1,5 +1,13 @@
 # blackroad-alfred
 
+> BlackRoad Alfred Workflow — macOS automation shortcuts for fleet management, deployment, and service monitoring. Quick deploy, status checks, and SSH shortcuts.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
+# blackroad-alfred
+
 BlackRoad Alfred Workflow — macOS automation shortcuts for fleet management, deployment, and service monitoring. Quick deploy, status checks, and SSH shortcuts.
 
 **BlackRoad-OS-Inc** — Corporate root — all IP and governance
