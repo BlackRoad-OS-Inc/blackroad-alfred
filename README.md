@@ -1,41 +1,20 @@
-<div align="center">
-
-<img src="https://images.blackroad.io/pixel-art/road-logo.png" alt="BlackRoad OS" width="80" />
-
 # blackroad-alfred
-
-**BlackRoad Alfred Workflow — macOS automation shortcuts for fleet management, deployment, and service monitoring. Quick deploy, status checks, and SSH shortcuts.**
-
-[![BlackRoad OS](https://img.shields.io/badge/BlackRoad_OS-Pave_Tomorrow-FF2255?style=for-the-badge&labelColor=000000)](https://blackroad.io)
-[![License](https://img.shields.io/badge/License-Proprietary-FF6B2B?style=for-the-badge&labelColor=000000)](./LICENSE)
-[![Edge AI](https://img.shields.io/badge/Edge_AI-52_TOPS-00D4FF?style=for-the-badge&labelColor=000000)](https://github.com/BlackRoad-OS-Inc)
-
-</div>
-
-<div align="center">
-<sub>Part of the <a href="https://blackroad.io">BlackRoad OS</a> ecosystem — sovereign edge AI infrastructure</sub>
-</div>
-
----
-
-## Overview
 
 BlackRoad Alfred Workflow — macOS automation shortcuts for fleet management, deployment, and service monitoring. Quick deploy, status checks, and SSH shortcuts.
 
-## License
+## Organization
 
-**Proprietary** — Copyright © 2024–2026 [BlackRoad OS, Inc.](https://blackroad.io) All rights reserved.
+**BlackRoad-OS-Inc** — Corporate root — all IP, strategy, and governance
 
-Founder & CEO: **Alexa Louise Amundson** · Delaware C-Corp
+## BlackRoad OS
 
-See [LICENSE](./LICENSE) for full terms.
+BlackRoad OS is a distributed AI operating system — 20 domains, 668 repositories, 1,000 AI agents, and sovereign infrastructure running on Raspberry Pis and Hailo-8 accelerators. No cloud dependency.
 
----
+- [blackroad.io](https://blackroad.io) — Main platform
+- [docs.blackroad.io](https://docs.blackroad.io) — Documentation
+- [GitHub](https://github.com/BlackRoad-OS-Inc) — This organization
 
-<div align="center">
+**Language:** Dockerfile
+**Fork:** This is a Road Fleet fork maintained by BlackRoad OS.
 
-**BlackRoad OS — Pave Tomorrow.**
-
-[blackroad.io](https://blackroad.io) · [GitHub](https://github.com/BlackRoad-OS-Inc) · [Brand](https://brand.blackroad.io)
-
-</div>
+*© 2024-2026 BlackRoad OS, Inc. All Rights Reserved.*
